@@ -6,8 +6,8 @@ bl_info = {
 	"blender": (2, 75, 0),
 	"location": "Tools",
 	"warning": "",
-	"wiki_url": "https://github.com/gregzaal/Matalogue",
-	"tracker_url": "https://github.com/gregzaal/Matalogue/issues",
+	"wiki_url": "",
+	"tracker_url": "",
 	"category": "Object"}
 
 import bpy
