@@ -83,7 +83,7 @@ def move_local(o):
 	# parameters: o, object
 
 	o = bpy.context.object
-	# one blender unit in x-direction
+	#
 	vec = Vector((0.0, -1.0, 0.0))
 	inv = o.matrix_world.copy()
 	inv.invert()
